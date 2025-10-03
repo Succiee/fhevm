@@ -40,7 +40,8 @@ FHEVM ensures both confidentiality and composability, with the following guarant
 ### Table of contents
 
 - [About](#about)
-  - [What is FHEVM?](#what-is-fhevm)
+  - [What is FHEVM?](#what-is-fhevm)<!-- test edit 1 -->
+
   - [Project structure](#project-structure)
   - [Main features](#main-features)
   - [Use cases](#use-cases)
